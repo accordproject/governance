@@ -2,7 +2,7 @@
 
 The Accord Project is the world's first consortium developing technical and legal standards for smart legal contracts. The project is community defined and run. The documents below provide the basis for the governance of the Accord Project.
 
-### Governance & Bylaws
+### Governance
 
 * [Governance Charter](https://github.com/accordproject/docs/blob/master/Accord%20Project%20Governance%20Charter.pdf)
 * [Operating Agreement](https://github.com/accordproject/docs/blob/master/Accord%20Project%20LLC%20Operating%20Agreement.pdf)
@@ -35,4 +35,4 @@ The following are public channels - open to everyone - through which to engage w
 * Public Slack: https://accord-project.slack.com   
 * Public Telegram: https://t.me/accordhq
 
-All documentation hosted on https://github.com/accordproject © 2017 Accord Project, LLC All rights reserved. 
+All documentation hosted on https://github.com/accordproject © 2017 Accord Project, LLC. All rights reserved. 
