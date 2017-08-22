@@ -34,3 +34,5 @@ The following are public channels - open to everyone - through which to engage w
 * Medium: https://medium.com/@accordhq 
 * Public Slack: https://accord-project.slack.com   
 * Public Telegram: https://t.me/accordhq
+
+© 2017 Accord Project, LLC All rights reserved. 
