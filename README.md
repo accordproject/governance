@@ -24,7 +24,8 @@ The Accord Project is the world's first consortium developing technical and lega
 
 ### Signup
 
-Signup application available [here](https://docs.google.com/forms/d/e/1FAIpQLScmPLO6vflTKFTRTJXiopCjGEvS5mMeH-ZlBnuStiQ3U4k19A)
+* Signup application available [here](https://docs.google.com/forms/d/e/1FAIpQLScmPLO6vflTKFTRTJXiopCjGEvS5mMeH-ZlBnuStiQ3U4k19A/viewform)
+* Proposal form available [here](https://docs.google.com/forms/d/e/1FAIpQLScAmrZ3_BbFmUmKCh24K94O06uSe73WjsaSbUaQfK_m4z7wig/viewform)
 
 ### Communication
 
