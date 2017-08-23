@@ -8,7 +8,7 @@ The Accord Project is the world's first consortium developing technical and lega
 * [Participant Agreement (Long Form)](https://github.com/accordproject/docs/blob/master/Accord%20Project%20Participant%20Agreement%20Long%20Form.pdf)
 * [Intellectual Property Rights Policy, OSS and Contributor License Agreement](https://github.com/accordproject/docs/blob/master/Accord%20Project%20Intellectual%20Property%20Rights%20Policy%20and%20Contributor%20License%20Agreement.pdf)
 * [Confidentiality and Nondisclosure Policy]()
-* Code of Conduct - COMING SOON 
+* Code of Conduct
 * [Antitrust Policy](https://github.com/accordproject/docs/blob/master/Accord%20Project%20Antitrust%20Policy.pdf)
 * [Fees, Contributions and Level Benefits](https://github.com/accordproject/docs/blob/master/Accord%20Project%20Participant%20Types%20and%20Fee%20and%20Contribution%20Schedule.pdf)
 
