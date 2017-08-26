@@ -5,7 +5,7 @@ The Accord Project is the world's first consortium developing technical and lega
 ### Governance
 
 * [Governance Charter](https://github.com/accordproject/docs/blob/master/Accord%20Project%20Governance%20Charter.pdf)
-* [Participant Agreement (Long Form)](https://github.com/accordproject/docs/blob/master/Accord%20Project%20Participant%20Agreement%20LF.pdf)
+* [Participant Agreement (Long Form)](https://github.com/accordproject/docs/blob/master/Accord%20Project%20Participant%20Agreement%20Long%20Form.pdf)
 * [Open Source Intellectual Property Rights Policy and Contributor License Agreement](https://github.com/accordproject/docs/blob/master/Accord%20Project%20Open%20Source%20Intellectual%20Property%20Rights%20Policy%20and%20Contributor%20License%20Agreement.pdf)
 * [Confidentiality and Nondisclosure Policy]()
 * [Code of Conduct](https://github.com/accordproject/docs/blob/master/Accord%20Project%20Code%20of%20Conduct.pdf)
