@@ -9,7 +9,6 @@ The Accord Project is the world's first consortium developing technical and lega
 * [Confidentiality and Nondisclosure Policy](https://github.com/accordproject/docs/blob/master/Accord%20Project%20Confidentiality%20and%20Non-Disclosure%20Policy.pdf)
 * [Code of Conduct](https://github.com/accordproject/docs/blob/master/Accord%20Project%20Code%20of%20Conduct.pdf)
 * [Antitrust Policy](https://github.com/accordproject/docs/blob/master/Accord%20Project%20Antitrust%20Policy.pdf)
-* [Fees, Contributions and Level Benefits](https://github.com/accordproject/docs/blob/master/Accord%20Project%20Participant%20Types%20and%20Fee%20and%20Contribution%20Schedule.pdf)
 
 ### Working Groups
 
