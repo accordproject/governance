@@ -13,10 +13,7 @@ The Accord Project is the world's first consortium developing technical and lega
 ### Working Groups
 
 * [Supply Chain](https://github.com/accordproject/working-groups/blob/master/Supply%20Chain%20Working%20Group%20Charter%20v2.pdf)
-* [Finance and Insurance](https://github.com/accordproject/working-groups/blob/master/Finance%20and%20Insurance%20Working%20Group%20Charter%20v2.pdf)
-* [Employment and Services](https://github.com/accordproject/working-groups/blob/master/Employment%20and%20Services%20Working%20Group%20Charter%20v2.pdf)
-* [Digital Marketing](https://github.com/accordproject/working-groups/blob/master/Digital%20Marketing%20Working%20Group%20Charter%20v2.pdf)
-* [Smart Cities](https://github.com/accordproject/working-groups/blob/master/Smart%20Cities%20Working%20Group%20Charter%20v2.pdf)
+* [Financial Services](https://github.com/accordproject/working-groups/blob/master/Financial%20Services%20Working%20Group%20Charter.pdf)
 * [Intellectual Property](https://github.com/accordproject/working-groups/blob/master/Intellectual%20Property%20Working%20Group%20Charter.pdf) 
 * [Open Data Standards](https://github.com/accordproject/working-groups/blob/master/Open%20Data%20Standards%20Working%20Group%20Charter%20v2.pdf)
 
