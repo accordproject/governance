@@ -16,6 +16,7 @@ The Accord Project is the world's first consortium developing technical and lega
 * [Financial Services](https://github.com/accordproject/working-groups/blob/master/Financial%20Services%20Working%20Group%20Charter.pdf)
 * [Intellectual Property](https://github.com/accordproject/working-groups/blob/master/Intellectual%20Property%20Working%20Group%20Charter.pdf) 
 * [Open Data Standards](https://github.com/accordproject/working-groups/blob/master/Open%20Data%20Standards%20Working%20Group%20Charter%20v2.pdf)
+* [Venture and Token Sales](https://github.com/accordproject/working-groups/blob/master/Venture%20and%20Token%20Sales%20Working%20Group%20Charter.pdf)
 
 ### Signup
 
