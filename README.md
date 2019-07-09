@@ -1,10 +1,11 @@
 # Documentation Index
 
-The Accord Project is the world's first organization developing technical and legal specifications for smart legal contracts. The Project is community defined and run. The documents below provide the basis for the governance of the Accord Project.
+The Accord Project is the world's first organization developing technical and legal specifications for smart legal contracts. The Project operates under the umbrella of the [Linux Foundation][linuxfound]. The documents below provide the basis for the governance of the Accord Project.
 
 ### Governance
 
 * [Governance Charter](https://github.com/accordproject/docs/blob/master/Accord%20Project%20Governance%20Charter.pdf)
+* [Technical Charter](https://github.com/accordproject/docs/blob/master/Accord%20Project%20Technical%20Charter.pdf)
 * [Open Source Intellectual Property Rights Policy and Contributor License Agreement](https://github.com/accordproject/docs/blob/master/Accord%20Project%20Open%20Source%20Intellectual%20Property%20Rights%20Policy%20and%20Contributor%20License%20Agreement.pdf)
 * [Confidentiality and Nondisclosure Policy](https://github.com/accordproject/docs/blob/master/Accord%20Project%20Confidentiality%20and%20Non-Disclosure%20Policy.pdf)
 * [Code of Conduct](https://github.com/accordproject/docs/blob/master/Accord%20Project%20Code%20of%20Conduct.pdf)
@@ -32,3 +33,5 @@ The following are public channels - open to everyone - through which to engage w
 * Public Telegram: https://t.me/accordhq
 
 © 2017-2019 Accord Project, LLC. All rights reserved. 
+
+[linuxfound]: https://www.linuxfoundation.org
