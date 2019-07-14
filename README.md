@@ -1,6 +1,6 @@
 # Documentation Index
 
-The Accord Project is the world's first organization developing technical and legal specifications for smart legal contracts. The Project operates under the umbrella of the [Linux Foundation][linuxfound]. The documents below provide the basis for the governance of the Accord Project.
+The Accord Project is the world's first and leading organization for the development of technical and legal specifications and open source implementations for smart legal contracts. The Project operates under the umbrella of the [Linux Foundation][linuxfound]. The documents below provide the basis for the governance of the Accord Project.
 
 ### Governance
 
@@ -33,6 +33,6 @@ The following are public channels - open to everyone - through which to engage w
 * Public Slack: https://accord-project.slack.com   
 * Public Telegram: https://t.me/accordhq
 
-© 2017-2019 Accord Project, LLC. All rights reserved. 
+© 2017-2019 Accord Project. All rights reserved. 
 
 [linuxfound]: https://www.linuxfoundation.org
