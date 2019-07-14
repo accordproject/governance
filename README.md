@@ -23,8 +23,13 @@ The Accord Project is the world's first and leading organization for the develop
 
 ### Signup
 
-* Signup application available [here](https://docs.google.com/forms/d/e/1FAIpQLScmPLO6vflTKFTRTJXiopCjGEvS5mMeH-ZlBnuStiQ3U4k19A/viewform)
-* Proposal form available [here](https://docs.google.com/forms/d/e/1FAIpQLScAmrZ3_BbFmUmKCh24K94O06uSe73WjsaSbUaQfK_m4z7wig/viewform)
+New members may join the Accord Project by signing up to the aforementioned governance provisions using the Accord Project participation agreement. 
+
+Signup is a two stage process: (1) Requesting the participation agreement using the application signup link [here](https://docs.google.com/forms/d/e/1FAIpQLScmPLO6vflTKFTRTJXiopCjGEvS5mMeH-ZlBnuStiQ3U4k19A/viewform); and (2) Signing the participation agreement using the DocuSign link automatically sent to the email provided via the signup link.  
+
+### Proposals
+
+Members may propose new working groups, projects, specifications using the Accord Project Proposal form [here](https://docs.google.com/forms/d/e/1FAIpQLScAmrZ3_BbFmUmKCh24K94O06uSe73WjsaSbUaQfK_m4z7wig/viewform)
 
 ### Communication
 
