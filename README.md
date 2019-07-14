@@ -7,9 +7,11 @@ The Accord Project is the world's first organization developing technical and le
 * [Governance Charter](https://github.com/accordproject/docs/blob/master/Accord%20Project%20Governance%20Charter.pdf)
 * [Technical Charter](https://github.com/accordproject/docs/blob/master/Accord%20Project%20Technical%20Charter.pdf)
 * [Open Source Intellectual Property Rights Policy and Contributor License Agreement](https://github.com/accordproject/docs/blob/master/Accord%20Project%20Open%20Source%20Intellectual%20Property%20Rights%20Policy%20and%20Contributor%20License%20Agreement.pdf)
-* [Confidentiality and Nondisclosure Policy](https://github.com/accordproject/docs/blob/master/Accord%20Project%20Confidentiality%20and%20Non-Disclosure%20Policy.pdf)
-* [Code of Conduct](https://github.com/accordproject/docs/blob/master/Accord%20Project%20Code%20of%20Conduct.pdf)
-* [Antitrust Policy](https://github.com/accordproject/docs/blob/master/Accord%20Project%20Antitrust%20Policy.pdf)
+* [LF Projects Antitrust Policy](https://lfprojects.org/policies/antitrust-policy/)
+* [LF Projects Trademark Policy](https://lfprojects.org/policies/trademark-policy/)
+* [LF Projects Code of Conduct](https://lfprojects.org/policies/code-of-conduct/)
+* [LF Projects Terms of Use](https://lfprojects.org/policies/terms-of-use/)
+* [LF Projects Cookie Policy](https://lfprojects.org/cookie-policy/)
 
 ### Working Groups
 
