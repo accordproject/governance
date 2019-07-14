@@ -11,6 +11,7 @@ The Accord Project is the world's first and leading organization for the develop
 * [LF Projects Code of Conduct](https://lfprojects.org/policies/code-of-conduct/)
 * [LF Projects Terms of Use](https://lfprojects.org/policies/terms-of-use/)
 * [LF Projects Cookie Policy](https://lfprojects.org/cookie-policy/)
+* [LF Projects Privacy Policy](https://lfprojects.org/policies/privacy-policy/)
 
 ### Working Groups
 
