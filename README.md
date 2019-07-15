@@ -15,6 +15,15 @@ The Accord Project is the world's first and leading organization for the develop
 
 ### Working Groups
 
+The public calendar of Accord Project events is available [here](https://calendar.google.com/calendar/b/2?cid=YWNjb3JkcHJvamVjdC5vcmdfZ2t0aWpkcG5zdGFsdGF0cWN2NmJjdnI1NG9AZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ). 
+
+**Technology**
+
+* Technology Working Group
+* Ergo Taskforce
+
+**Applications**
+
 * [Supply Chain](https://github.com/accordproject/working-groups/blob/master/Supply%20Chain%20Working%20Group%20Charter%20v2.pdf)
 * [Financial Services](https://github.com/accordproject/working-groups/blob/master/Financial%20Services%20Working%20Group%20Charter.pdf)
 * [Intellectual Property](https://github.com/accordproject/working-groups/blob/master/Intellectual%20Property%20Working%20Group%20Charter.pdf) 
