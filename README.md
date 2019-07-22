@@ -46,7 +46,6 @@ The following are public channels - open to everyone - through which to engage w
 * Videos: [Technology Calls](https://vimeo.com/accordproject); [Introduction w/ Hyperledger](https://www.youtube.com/watch?v=2xb5bMH4-rU)
 * Medium: https://medium.com/@accordhq 
 * Public Slack: https://accord-project.slack.com   
-* Public Telegram: https://t.me/accordhq
 
 © 2017-2019 Accord Project. All rights reserved. 
 
