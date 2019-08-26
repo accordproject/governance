@@ -17,7 +17,7 @@ The Accord Project is the world's first and leading organization for the develop
 * [Technology Working Group](https://www.accordproject.org/working-groups/technology/)
 * [Lifecycle and Industry Working Groups](https://www.accordproject.org/liwg)
 * Ergo Taskforce
-* [Events Calendar](https://calendar.google.com/calendar/embed?src=accordproject.org_gktijdpnstaltatqcv6bcvr54o%40group.calendar.google.com). 
+* [Events Calendar](https://calendar.google.com/calendar/embed?src=accordproject.org_gktijdpnstaltatqcv6bcvr54o%40group.calendar.google.com)
 
 ### Signup
 
