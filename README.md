@@ -2,9 +2,8 @@
 
 The Accord Project is the world's first and leading organization for the development of techno-legal specifications and open source software for smart legal contracts. The Accord Project operates under the umbrella of the [Linux Foundation][linuxfound]. The documents below provide the basis for the governance of the project.
 
-### Governance
+### Governance Documents and Policies
 
-* [Governance Charter](https://github.com/accordproject/docs/blob/master/Accord%20Project%20Governance%20Charter.pdf)
 * [Technical Charter](https://github.com/accordproject/docs/blob/master/Accord%20Project%20Technical%20Charter.pdf)
 * [LF Projects Antitrust Policy](https://lfprojects.org/policies/antitrust-policy/)
 * [LF Projects Trademark Policy](https://lfprojects.org/policies/trademark-policy/)
@@ -13,21 +12,12 @@ The Accord Project is the world's first and leading organization for the develop
 * [LF Projects Cookie Policy](https://lfprojects.org/cookie-policy/)
 * [LF Projects Privacy Policy](https://lfprojects.org/policies/privacy-policy/)
 
-### Working Groups
+### Engagement
 
-The public calendar of Accord Project events is available [here](https://calendar.google.com/calendar/b/2?cid=YWNjb3JkcHJvamVjdC5vcmdfZ2t0aWpkcG5zdGFsdGF0cWN2NmJjdnI1NG9AZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ). 
-
-**Technology**
-
-* Technology Working Group
+* [Technology Working Group](https://www.accordproject.org/working-groups/technology/)
+* [Lifecycle and Industry Working Groups](https://www.accordproject.org/liwg)
 * Ergo Taskforce
-
-**Applications**
-
-* [Supply Chain](https://github.com/accordproject/working-groups/blob/master/Supply%20Chain%20Working%20Group%20Charter%20v2.pdf)
-* [Financial Services](https://github.com/accordproject/working-groups/blob/master/Financial%20Services%20Working%20Group%20Charter.pdf)
-* [Intellectual Property](https://github.com/accordproject/working-groups/blob/master/Intellectual%20Property%20Working%20Group%20Charter.pdf) 
-* [Venture and Token Sales](https://github.com/accordproject/working-groups/blob/master/Venture%20and%20Token%20Sales%20Working%20Group%20Charter.pdf)
+* [Events Calendar](https://calendar.google.com/calendar/embed?src=accordproject.org_gktijdpnstaltatqcv6bcvr54o%40group.calendar.google.com). 
 
 ### Signup
 
