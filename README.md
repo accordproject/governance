@@ -23,7 +23,7 @@ The Accord Project is the world's first and leading organization for the develop
 
 New members may join the Accord Project by signing up to the aforementioned governance provisions using the Accord Project participation agreement. 
 
-Signup is a two stage process: (1) Requesting the participation agreement using the application signup link [here](https://docs.google.com/forms/d/e/1FAIpQLScmPLO6vflTKFTRTJXiopCjGEvS5mMeH-ZlBnuStiQ3U4k19A/viewform); and (2) Signing the participation agreement using the DocuSign link automatically sent to the email provided via the signup link.  
+Signup is a two stage process: (1) Requesting a Participant Agreement using the application signup link [here](https://docs.google.com/forms/d/e/1FAIpQLScmPLO6vflTKFTRTJXiopCjGEvS5mMeH-ZlBnuStiQ3U4k19A/viewform); and (2) Signing the participation agreement using the DocuSign link automatically sent to the email provided via the signup link.  
 
 ### Proposals
 
