@@ -27,7 +27,7 @@ Signup is a two stage process: (1) Requesting a Participant Agreement using the 
 
 ### Proposals
 
-Members may propose new working groups, projects, specifications using the Accord Project Proposal form [here](https://docs.google.com/forms/d/e/1FAIpQLScAmrZ3_BbFmUmKCh24K94O06uSe73WjsaSbUaQfK_m4z7wig/viewform)
+Members may propose new working groups, projects, specifications using the Accord Project Proposal form [here](https://docs.google.com/forms/d/e/1FAIpQLScAmrZ3_BbFmUmKCh24K94O06uSe73WjsaSbUaQfK_m4z7wig/viewform).
 
 ### Brand Assets
 
