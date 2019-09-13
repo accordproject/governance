@@ -31,7 +31,9 @@ Members may propose new working groups, projects, specifications using the Accor
 
 ### Brand Assets
 
-Logomarks are available in [blue](https://github.com/accordproject/docs/blob/master/logomark_blue.png), [black](https://github.com/accordproject/docs/blob/master/logomark_black.png) and [white](https://github.com/accordproject/docs/blob/master/logomark_white.png). The Pantone swatches are available [here](https://github.com/accordproject/docs/blob/master/colorguide.png) for reference. 
+Official versions of the Accord Project logomarks are available in [blue](https://github.com/accordproject/docs/blob/master/logomark_blue.png), [black](https://github.com/accordproject/docs/blob/master/logomark_black.png), and [white](https://github.com/accordproject/docs/blob/master/logomark_white.png). The official logo with text is available [here](https://github.com/accordproject/docs/blob/master/textmark_black.png). The Pantone swatches are available [here](https://github.com/accordproject/docs/blob/master/colorguide.png) for reference. 
+
+Use of the brand assets is encouraged to demonstrate compatibility with the Accord Project Specification and/or the use of the reference implementations. 
 
 ### Communication
 
