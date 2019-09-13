@@ -29,6 +29,10 @@ Signup is a two stage process: (1) Requesting a Participant Agreement using the 
 
 Members may propose new working groups, projects, specifications using the Accord Project Proposal form [here](https://docs.google.com/forms/d/e/1FAIpQLScAmrZ3_BbFmUmKCh24K94O06uSe73WjsaSbUaQfK_m4z7wig/viewform)
 
+### Brand Assets
+
+Logomarks are available in [blue](https://github.com/accordproject/docs/blob/master/logomark_blue.png), [black](https://github.com/accordproject/docs/blob/master/logomark_black.png) and [white](https://github.com/accordproject/docs/blob/master/logomark_white.png). The Pantone swatches are available [here](https://github.com/accordproject/docs/blob/master/colorguide.png) for reference. 
+
 ### Communication
 
 The following are public channels - open to everyone - through which to engage with the Project:
