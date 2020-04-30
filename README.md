@@ -4,7 +4,7 @@ The Accord Project is the world's first and leading organization for the develop
 
 ### Governance Documents and Policies
 
-* [Technical Charter](https://github.com/accordproject/docs/blob/master/Accord%20Project%20Technical%20Charter.pdf)
+* [Technical Charter](accord-project-technical-charter.md)
 * [LF Projects Antitrust Policy](https://lfprojects.org/policies/antitrust-policy/)
 * [LF Projects Trademark Policy](https://lfprojects.org/policies/trademark-policy/)
 * [LF Projects Code of Conduct](https://lfprojects.org/policies/code-of-conduct/)
