@@ -14,16 +14,16 @@ The Accord Project is the world's first and leading organization for the develop
 
 ### Engagement
 
+* Technical Steering Committee
 * [Technology Working Group](https://www.accordproject.org/working-groups/technology/)
-* [Lifecycle and Industry Working Groups](https://www.accordproject.org/liwg)
-* Ergo Taskforce
-* [Events Calendar](https://calendar.google.com/calendar/embed?src=accordproject.org_gktijdpnstaltatqcv6bcvr54o%40group.calendar.google.com)
+* [Events Calendar](https://calendar.google.com/calendar/u/1?cid=YWNjb3JkcHJvamVjdC5vcmdfZ2t0aWpkcG5zdGFsdGF0cWN2NmJjdnI1NG9AZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ)
 
-### Signup
+### Contribution
 
-New members may join the Accord Project by signing up to the aforementioned governance provisions using the Accord Project participation agreement. 
+New members may join the Accord Project as an indidual or as a corporate sponsor.
 
-Signup is a two stage process: (1) Requesting a Participant Agreement using the application signup link [here](https://www.accordproject.org/signup); and (2) Signing the participation agreement using the DocuSign link automatically sent to the email provided via the signup link.  
+Follow the process on the Accord Project website:
+https://accordproject.org/contribute 
 
 ### Proposals
 
@@ -39,10 +39,10 @@ Use of the brand assets is encouraged to demonstrate compatibility with the Acco
 
 The following are public channels - open to everyone - through which to engage with the Project:
 
-* Videos: [Technology Calls](https://vimeo.com/accordproject); [Introduction w/ Hyperledger](https://www.youtube.com/watch?v=2xb5bMH4-rU)
-* Medium: https://medium.com/@accordhq 
-* Public Slack: https://accord-project.slack.com   
+* Videos: [Video Archive](https://vimeo.com/accordproject); [Introduction w/ Hyperledger](https://www.youtube.com/watch?v=2xb5bMH4-rU)
+* News/Blog: https://accordproject.org/news
+* Discussion: [Discord](https://discord.gg/Zm99SKhhtA)
 
-© 2017-2019 Accord Project. All rights reserved. 
+© 2017-2022 Accord Project. All rights reserved. 
 
 [linuxfound]: https://www.linuxfoundation.org
