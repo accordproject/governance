@@ -15,7 +15,7 @@ b. The scope of the Project includes collaborative development under the Project
 
 The Project shall be governed by the Technical Steering Committee (TSC) and the TSC shall be responsible for:
 
-    (a. approving a budget directing the use of any funds raised by, or used by, AP and designating a treasurer for financial authorizations;
+    a. approving a budget directing the use of any funds raised by, or used by, AP and designating a treasurer for financial authorizations;
 
     b. electing a Chair of AP to preside over TSC meetings, authorize expenditures approved by the budget and manage any necessary day-to- day operations
 
