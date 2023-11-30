@@ -15,25 +15,23 @@ b. The scope of the Project includes collaborative development under the Project
 
 The Project shall be governed by the Technical Steering Committee (TSC) and the TSC shall be responsible for:
 
-    (a. approving a budget directing the use of any funds raised by, or used by, AP;
+    (a. approving a budget directing the use of any funds raised by, or used by, AP and designating a treasurer for financial authorizations;
 
-    b. electing a Chair of AP to preside over TSC meetings, authorize expenditures approved by the budget and manage any necessary day-to- day operations;
-     
-    c. electing a treasurer with authority for signing checks and responsiblity for credit card purchases;
+    b. electing a Chair of AP to preside over TSC meetings, authorize expenditures approved by the budget and manage any necessary day-to- day operations
 
-    d. overseeing all Project business and marketing matters;
+    c. overseeing all Project business and marketing matters;
 
-    e. administering, provisioning, and managing AP involvement in external projects; 
+    d. administering, provisioning, and managing AP involvement in external projects; 
 
-    f. adopting and maintaining policies or rules and procedures for AP (subject to LF approval); 
+    e. adopting and maintaining policies or rules and procedures for AP (subject to LF approval); 
 
-    g. voting on all decisions or matters coming before the TSC.
+    f. voting on all decisions or matters coming before the TSC.
 
-    h. TSC voting members are initially the existing TSC members and the former Governing Board members as of December ___, 2023 with existing TSC members retaining their present term and existing Governing Board Members starting a new term in December, 2023. Any meetings of the Technical Steering Committee are intended to be open to the public, and can be conducted electronically, via teleconference, or in person.
+    g. TSC voting members are initially the existing TSC members and the former Governing Board members as of December ___, 2023 with existing TSC members retaining their present term and existing Governing Board Members starting a new term in December, 2023. Any meetings of the Technical Steering Committee are intended to be open to the public, and can be conducted electronically, via teleconference, or in person.
 
-    i. TSC Members shall have a two (2) year term and they may run for consequtive terms.
+    h. TSC Members shall have a two (2) year term and they may run for consequtive terms.
 
-    j. the TSC may (1) establish work flow procedures for the submission, approval, and closure/archiving of projects, (2) set requirements for the promotion of Contributors to Maintainer status, as applicable, and (3) amend, adjust, refine and/or eliminate the roles of Contributors, Maintiners and Committers, and create new roles, and publicly document any TSC roles, as it sees fit.
+    i. the TSC may (1) establish work flow procedures for the submission, approval, and closure/archiving of projects, (2) set requirements for the promotion of Contributors to Maintainer status, as applicable, and (3) amend, adjust, refine and/or eliminate the roles of Contributors, Maintiners and Committers, and create new roles, and publicly document any TSC roles, as it sees fit.
 
 ## 3. TSC Voting 
 
