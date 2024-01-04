@@ -27,7 +27,7 @@ The Project shall be governed by the Technical Steering Committee (TSC) and the 
 
     f. voting on all decisions or matters coming before the TSC.
 
-    g. TSC voting members are initially the existing TSC members and the former Governing Board members as of December ___, 2023 with existing TSC members retaining their present term and existing Governing Board Members starting a new term in December, 2023. Any meetings of the Technical Steering Committee are intended to be open to the public, and can be conducted electronically, via teleconference, or in person.
+    g. TSC voting members are initially the existing TSC members and the former Governing Board members as of January 31, 2023 with existing TSC members retaining their present term and existing Governing Board Members starting a new term in December, 2023. Any meetings of the Technical Steering Committee are intended to be open to the public, and can be conducted electronically, via teleconference, or in person.
 
     h. TSC Members shall have a two (2) year term and they may run for consecutive terms.
 
