@@ -29,7 +29,7 @@ The Project shall be governed by the Technical Steering Committee (TSC) and the 
 
     g. TSC voting members are initially the existing TSC members and the former Governing Board members as of December ___, 2023 with existing TSC members retaining their present term and existing Governing Board Members starting a new term in December, 2023. Any meetings of the Technical Steering Committee are intended to be open to the public, and can be conducted electronically, via teleconference, or in person.
 
-    h. TSC Members shall have a two (2) year term and they may run for consequtive terms.
+    h. TSC Members shall have a two (2) year term and they may run for consecutive terms.
 
     i. the TSC may (1) establish work flow procedures for the submission, approval, and closure/archiving of projects, (2) set requirements for the promotion of Contributors to Maintainer status, as applicable, and (3) amend, adjust, refine and/or eliminate the roles of Contributors, Maintiners and Committers, and create new roles, and publicly document any TSC roles, as it sees fit.
 
