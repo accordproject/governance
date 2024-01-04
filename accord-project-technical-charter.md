@@ -47,7 +47,7 @@ d. In the event a vote cannot be resolved by the TSC, any voting member of the T
 
 a. TSC members shall be elected after open nominations adopted by the procedures set forth in the policies of the projects.
 
-b. Any individual that have made at least one commit to any Accord Project repository is entitled to vote in the elction.
+b. Any individual that have made at least one commit to any Accord Project repository is entitled to vote in the election.
 
 
 ## 6. Compliance with Policies
